@@ -1,6 +1,6 @@
 ---
 
-**Bogdan Banra** | Arad, Arad, Romania
+**Bogdan Barna** | Arad, Arad, Romania
 
 ---
 
