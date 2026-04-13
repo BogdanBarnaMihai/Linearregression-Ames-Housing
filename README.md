@@ -100,6 +100,9 @@ The goal was not just to build a predictive model, but to truly understand what 
 ---
 
 ## 🔄 Pipeline Overview
+
+```
+
 Raw Data
 ↓
 Data Cleaning (Handling Nulls)
@@ -113,6 +116,7 @@ PCA Dimensionality Reduction (95% variance → 196 components)
 Model Training & Hyperparameter Tuning
 ↓
 Model Evaluation & Comparison
+```
 ---
 
 ## 🏆 Key Findings
