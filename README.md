@@ -151,28 +151,30 @@ The notebook includes comprehensive visualizations:
 ---
 
 ## 🗂️ Repository Structure
+
+```
 Linearregression-Ames-Housing/
 │
-├── README.md # This file
-├── Untitled1.ipynb # Main notebook with all code
+├── README.md
+├── Untitled1.ipynb
 ├── sample_data/
-│ └── AmesHousing.csv # Dataset
+│   └── AmesHousing.csv
 │
-├── math/ # Handwritten mathematical derivations
-│ ├── PCA/
-│ │ └── (PCA eigendecomposition photos)
-│ ├── Lasso_Regressionn/
-│ │ └── (Lasso soft-threshold photos)
-│ ├── Linear_Regression+MLE/
-│ │ └── (MLE log-likelihood photos)
-│ ├── Ridge_Regression+R_Squared/
-│ │ └── (Ridge normal equation photos)
-│ └── Standard_scaler/
-│ └── (Standardization formula photos)
+├── math/
+│   ├── PCA/
+│   │   └── (PCA eigendecomposition photos)
+│   ├── Lasso_Regressionn/
+│   │   └── (Lasso soft-threshold photos)
+│   ├── Linear_Regression+MLE/
+│   │   └── (MLE log-likelihood photos)
+│   ├── Ridge_Regression+R_Squared/
+│   │   └── (Ridge normal equation photos)
+│   └── Standard_scaler/
+│       └── (Standardization formula photos)
 │
-└── images/ # Generated plots and figures
-
-
+└── images/
+    └── (Generated plots and figures)
+```
 
 ---
 
